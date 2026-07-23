@@ -7,39 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-I am **Junteng Liu**, a first-year Ph.D. candidate at the [HKUST NLP Group](https://hkunlp.github.io/), fortunately advised by [Prof. Junxian He](https://jxhe.github.io/). Before starting my Ph.D., I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/) in June 2024, where I was also fortunate to be advised by Prof. Junxian He on my undergraduate research.
+I am **Junteng Liu**, a first-year Ph.D. candidate at the HKUST NLP Group, advised by Prof. Junxian He, who also advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU). I graduated from SJTU with a B.Eng. in June 2024.
 
-My research lies at the intersection of natural language processing and machine learning. I am broadly interested in building more capable, truthful, and interpretable large language models. My current research interests include:
+My research focuses on natural language processing and machine learning. My research interests include:
 
-- **LLM Reasoning and Reinforcement Learning** — training LLMs to reason with verifiable and scalable RL.
-- **Hallucination in Vision-Language Models (VLMs)** — understanding and mitigating perception and hallucination issues in multimodal models.
-- **LLM Truthfulness and Interpretability** — probing and steering the internal representations of LLMs to make them more truthful.
+- LLM Reasoning and Reinforcement Learning
+- Hallucination in Vision-Language Models (VLMs)
+- LLM Truthfulness and Interpretability
 
-Feel free to reach out at **jliugi [at] connect.ust.hk**. A full list of my papers is on the [Publications](/publications/) page and my [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
-
-News
-======
-- **[2025.02]** Started as a Research Intern at MINIMAX.
-- **[2025]** Two new preprints on arXiv: *SynLogic* and *On the Perception Bottleneck of VLMs for Chart Understanding*.
-- **[2024.09]** Our paper *On the Universal Truthfulness Hyperplane Inside LLMs* is accepted to **EMNLP 2024**.
-- **[2024.09]** Started my Ph.D. journey at HKUST NLP Group.
-- **[2024.06]** Graduated from SJTU with a B.Eng.
-- **[2024.05]** Our paper *In-Context Sharpness as Alerts* is accepted to **ICML 2024**.
+A full list of my papers is on the [Publications](/publications/) page and my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 Education
 ======
-- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology (HKUST), 2024 – Present. Advisor: Prof. Junxian He.
-- **B.Eng.**, Shanghai Jiao Tong University (SJTU), 2020 – 2024. Zhiyuan Honor Scholarship.
+- **Ph.D. in Computer Science**, Hong Kong University of Science and Technology, 2024 – Present.
+- **B.Eng.**, Shanghai Jiao Tong University, 2020 – 2024.
 
 Research Experience
 ======
-- **MINIMAX**, Research Intern, Feb 2025 – Present.
-- **Tencent WXG**, Research Intern, Jun 2024 – Sep 2024. Advisor: Zifei Shan.
-- **Shanghai AI Lab**, Research Intern, Jun 2023 – Dec 2023. Advisor: Prof. Yu Cheng.
+- **MINIMAX**, Research Intern, February 2025 – Present.
+- **Tencent WXG**, Research Intern, June 2024 – September 2024. Advisor: Zifei Shan.
+- **Shanghai AI Lab**, Research Intern, June 2023 – December 2023. Advisor: Prof. Yu Cheng.
+
+Honors
+======
+- Zhiyuan Honor Scholarship, Shanghai Jiao Tong University.
 
 Contact
 ======
-- Email: **jliugi [at] connect.ust.hk**
+- Email: jliugi@connect.ust.hk
 - GitHub: [Vicent0205](https://github.com/Vicent0205)
 - Google Scholar: [profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 - X (Twitter): [@junteng88716710](https://twitter.com/junteng88716710)
